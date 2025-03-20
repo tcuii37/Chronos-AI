@@ -1,6 +1,6 @@
-# Harpooner AI: Solana Blockchain Monitoring and Analysis 🚀
+# Deeptrace AI: Solana Blockchain Monitoring and Analysis 🚀
 
-Harpooner AI is an intelligent system built to monitor and analyze the Solana blockchain ecosystem. It uses advanced machine learning models to detect anomalies in transactions, predict Solana token prices, and analyze whale activity to track Dollar Cost Averaging (DCA) behavior.
+Deeptrace AI is an intelligent system built to monitor and analyze the Solana blockchain ecosystem. It uses advanced machine learning models to detect anomalies in transactions, predict Solana token prices, and analyze whale activity to track Dollar Cost Averaging (DCA) behavior.
 
 ## 🔑 Key Features
 - 🛑 **Anomaly Detection:** Detects unusual behavior in Solana blockchain transactions.
@@ -16,8 +16,8 @@ Before you begin, ensure that you have the following installed:
 ## 🔧 Installation
 ### Clone the Repository:
 ```sh
-git clone https://github.com/your-repository/Harpooner-ai.git
-cd Harpooner-ai
+git clone https://github.com/your-repository/deeptrace-ai.git
+cd deeptrace-ai
 ```
 
 ### Install Dependencies:
@@ -45,7 +45,7 @@ The project is composed of three main Jupyter notebooks:
 
 ## 📂 Folder Structure
 ```
-Harpooner-ai/
+deeptrace-ai/
 ├── anomaly_detection.ipynb
 ├── price_prediction.ipynb
 ├── whale_activity_analysis.ipynb
@@ -58,7 +58,7 @@ Harpooner-ai/
 - 📜 **`requirements.txt`**: Lists dependencies for the project.
 
 ## 📦 Dependencies
-Here are the main dependencies used in Harpooner AI:
+Here are the main dependencies used in Deeptrace AI:
 - 📊 `pandas`
 - 🔢 `numpy`
 - 📉 `matplotlib`

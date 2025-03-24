@@ -1,6 +1,6 @@
-# Megaptera AI: Solana Blockchain Monitoring and Analysis 🚀
+# Sonar Whale AI: Solana Blockchain Monitoring and Analysis 🚀
 
-Megaptera AI is an intelligent system built to monitor and analyze the Solana blockchain ecosystem. It uses advanced machine learning models to detect anomalies in transactions, predict Solana token prices, and analyze whale activity to track Dollar Cost Averaging (DCA) behavior.
+Sonar Whale AI is an intelligent system built to monitor and analyze the Solana blockchain ecosystem. It uses advanced machine learning models to detect anomalies in transactions, predict Solana token prices, and analyze whale activity to track Dollar Cost Averaging (DCA) behavior.
 
 ## 🔑 Key Features
 - 🛑 **Anomaly Detection:** Detects unusual behavior in Solana blockchain transactions.
@@ -16,8 +16,8 @@ Before you begin, ensure that you have the following installed:
 ## 🔧 Installation
 ### Clone the Repository:
 ```sh
-git clone https://github.com/your-repository/Megaptera-ai.git
-cd Megaptera-ai
+git clone https://github.com/your-repository/Sonar Whale-ai.git
+cd Sonar Whale-ai
 ```
 
 ### Install Dependencies:
@@ -58,7 +58,7 @@ deeptrace-ai/
 - 📜 **`requirements.txt`**: Lists dependencies for the project.
 
 ## 📦 Dependencies
-Here are the main dependencies used in Megaptera AI:
+Here are the main dependencies used in Sonar Whale AI:
 - 📊 `pandas`
 - 🔢 `numpy`
 - 📉 `matplotlib`
